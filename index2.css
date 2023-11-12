@@ -1,0 +1,14 @@
+.card {
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+
+.card-img {
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 250px;
+    min-height: 175px;
+    
+}
